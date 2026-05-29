@@ -1,6 +1,0 @@
-# src/task_notification.ipynb
-dbutils.widgets.text("status", "unknown")
-status = dbutils.widgets.get("status")
-
-print(f"📧 SIMULACIÓN: Enviando correo al equipo. El Pipeline terminó con estado: {status}")
-print("✅ Proceso completado exitosamente.")
