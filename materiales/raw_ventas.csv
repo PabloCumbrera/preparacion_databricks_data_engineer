@@ -1,0 +1,31 @@
+﻿ID_Venta,Fecha_Venta,ID_Producto,Nombre_Producto,Categoria_Producto,Cantidad,Precio_Unitario,Total_Venta,Region,Canal_Venta
+1001,2023-01-05,P001,Laptop Ultra,Electronica,1,1200.00,1200.00,Norte,Online
+1002,2023-01-05,P005,Teclado Mecanico,Accesorios,2,75.50,151.00,Sur,Tienda
+"1003,2023-01-06,P002,Monitor Curvo 27"",Electronica,1,350.00,350.00,Este,Online"
+1004,2023-01-06,P010,Silla Ergonomica,Oficina,1,180.00,180.00,Oeste,Tienda
+1005,2023-01-07,P003,Mouse Inalambrico,Accesorios,3,25.00,75.00,Norte,Online
+1006,2023-01-07,P001,Laptop Ultra,Electronica,1,1200.00,1200.00,Sur,Online
+1007,2023-01-08,P007,Auriculares Bluetooth,Accesorios,1,90.00,90.00,Este,Tienda
+1008,2023-01-08,P004,Disco Duro Externo 1TB,Almacenamiento,1,60.00,60.00,Oeste,Online
+1009,2023-01-09,P006,Impresora Laser,Oficina,1,250.00,250.00,Norte,Tienda
+"1010,2023-01-09,P002,Monitor Curvo 27"",Electronica,2,350.00,700.00,Sur,Online"
+1011,2023-01-10,P008,Webcam HD,Accesorios,1,45.00,45.00,Este,Online
+1012,2023-01-10,P009,Router WiFi 6,Redes,1,110.00,110.00,Oeste,Tienda
+1013,2023-01-11,P001,Laptop Ultra,Electronica,1,1200.00,1200.00,Norte,Tienda
+1014,2023-01-11,P005,Teclado Mecanico,Accesorios,1,75.50,75.50,Sur,Online
+1015,2023-01-12,P010,Silla Ergonomica,Oficina,2,180.00,360.00,Este,Online
+1016,2023-01-12,P003,Mouse Inalambrico,Accesorios,5,25.00,125.00,Oeste,Tienda
+1017,2023-01-13,P007,Auriculares Bluetooth,Accesorios,2,90.00,180.00,Norte,Online
+1018,2023-01-13,P004,Disco Duro Externo 1TB,Almacenamiento,1,60.00,60.00,Sur,Tienda
+1019,2023-01-14,P006,Impresora Laser,Oficina,1,250.00,250.00,Este,Online
+1020,2023-01-14,P001,Laptop Ultra,Electronica,1,1200.00,1200.00,Oeste,Tienda
+"1021,2023-01-15,P002,Monitor Curvo 27"",Electronica,1,350.00,350.00,Norte,Online"
+1022,2023-01-15,P008,Webcam HD,Accesorios,2,45.00,90.00,Sur,Online
+1023,2023-01-16,P009,Router WiFi 6,Redes,1,110.00,110.00,Este,Tienda
+1024,2023-01-16,P005,Teclado Mecanico,Accesorios,1,75.50,75.50,Oeste,Online
+1025,2023-01-17,P010,Silla Ergonomica,Oficina,1,180.00,180.00,Norte,Tienda
+1026,2023-01-17,P003,Mouse Inalambrico,Accesorios,2,25.00,50.00,Sur,Online
+1027,2023-01-18,P001,Laptop Ultra,Electronica,1,1200.00,1200.00,Este,Tienda
+1028,2023-01-18,P007,Auriculares Bluetooth,Accesorios,1,90.00,90.00,Oeste,Online
+1029,2023-01-19,P004,Disco Duro Externo 1TB,Almacenamiento,2,60.00,120.00,Norte,Online
+1030,2023-01-19,P006,Impresora Laser,Oficina,1,250.00,250.00,Sur,Online
